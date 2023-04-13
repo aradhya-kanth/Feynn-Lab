@@ -1,0 +1,37 @@
+{"101": 
+        {"year": 2022,
+         "description": "EV companies registered with number of vehicle sold by the company till 2022"}, 
+ "102": 
+        {"year": 2023,
+         "description": "total charging stations sanctioned by gov till 2023 state wise"},
+ "103": 
+        {"year": 2022,
+         "description": "number of charging facilities available up till 2022 "},
+ "104": 
+        {"year": 2015,
+         "description": "contains the sales of all types of automobiles till 2015 category wise "},
+ "105": 
+        {"year": 2022,
+         "description": "Comprises of total electric and non electric vehicle sales as on April 2022 state wise"},
+ "106": 
+        {"year": 2022,
+         "description": "comprises of total operating charging stations with their type and precise location city wise."},
+ "107": 
+        {"year": 2021,
+         "description": "State wise Electric Vehicles Supported under Faster Adoption and Manufacturing of Electric and Hybrid Vehicles in India (FAME-India) Scheme as on 09-12-2021"},
+ "108": 
+        {"year": 2022,
+         "description": "The data has been scraped from bikewale for 2-wheeler EV, contains user preferences."},
+ "109": 
+        {"year": 2022,
+         "description": "The data has been scraped from car wale for 4-wheeler EV , contains user preferences."},
+ "110": 
+        {"year": "nan",
+         "description": "ratings of different ev company products."},
+ "111": 
+        {"year": 2015,
+         "description": "consumers data purchasing automobile."},
+ "112": 
+        {"year": "nan",
+         "description": "state wise classification of type of automobiles with their numbers."}
+}
